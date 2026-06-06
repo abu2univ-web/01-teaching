@@ -1,3 +1,3 @@
 # teaching
-Created by DRZ on June 6, 2026.
-# Store and share teaching materials only for educational purposes.
+Created by Dr. Zaman. June 2026.
+# This page contains teaching materials that are shared exclusively for educational and academic purposes.
